@@ -250,6 +250,7 @@ a {
     border-radius: 4rem;
     padding: 2rem;
     margin-bottom: 1rem;
+    max-width: 40rem;
 }
 
 
@@ -305,10 +306,10 @@ a {
 
 .viajes__contenido {
     position: relative;
+    width: 50rem;
 }
 
 .viajes__titulo {
-    margin: 0 auto;
     font-weight: 700;
     width: 32rem;
 }
@@ -316,7 +317,6 @@ a {
 .viajes__texto {
     font-size: 2.4rem;
     max-width: 32rem; 
-    margin: 1rem auto 2rem auto; 
     font-weight: 500;
 }
 
