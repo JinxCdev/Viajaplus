@@ -38,7 +38,7 @@ body {
 /** Globales **/
 .contenedor {
     max-width: 120rem;
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 
@@ -240,7 +240,6 @@ a {
 
 @media (min-width: 992px) {
     .servicios__grid {
-        display: grid;
         grid-template-columns: repeat(3, 1fr);
         column-gap: 1rem;
     }
