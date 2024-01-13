@@ -431,6 +431,10 @@ a {
     margin-bottom: 0;
 }
 
+.formulario__label {
+    font-size: 2rem;
+}
+
 .formulario__input {
     width: 100%;
     padding: 1rem;
